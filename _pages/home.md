@@ -11,8 +11,6 @@ redirect_from: /sitemap/
 
 <p dir="ltr" class="zfr3Q CDt4Ke " style="background-color: transparent; border-bottom: none; border-left: none; border-right: none; border-top: none; margin-bottom: 10.0pt; margin-top: 0.0pt; padding-bottom: 0.0pt; padding-left: 0.0pt; padding-right: 0.0pt; padding-top: 0.0pt; text-align: center;"><span class="C9DxTc " style="font-variant: normal;">University of Michigan, Ann Arbor, MI, USA&nbsp;</span></p>
 
-<p dir="ltr" class="zfr3Q CDt4Ke " style="background-color: transparent; border-bottom: none; border-left: none; border-right: none; border-top: none; margin-bottom: 0.0pt; margin-top: 0.0pt; padding-bottom: 0.0pt; padding-left: 0.0pt; padding-right: 0.0pt; padding-top: 0.0pt; text-align: center;"><span class="C9DxTc " style="font-family: 'Source Code Pro', Arial; font-variant: normal; font-weight: 400;">{tzuyuan,tingjunl,wenzhet,yujustin}@umich.edu</span></p>
-
 <p float="middle">
 <div>
     <video autoplay="autoplay" src="./images/town10h_wh_4x.mp4" controls="controls" width="100%" />
