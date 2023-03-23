@@ -24,7 +24,7 @@ redirect_from: /sitemap/
             <div>
                 Husky
                 <p>
-                    <img src="./images/TraceFree.png" alt="Husky">
+                    <img src="./images/husky.jpeg" alt="Husky">
                 </p>
                 <p>
                     The Husky robot is a mobile robot platform designed and manufactured by Clearpath Robotics, a Canadian robotics company. The robot is designed for use in research, industrial, and commercial applications, and is widely used in fields such as robotics, computer vision, and artificial intelligence research. (GPT-3.5 Generated Placeholder)
@@ -33,19 +33,19 @@ redirect_from: /sitemap/
             <div>
                 MIT MiniCheetah
                 <p>
-                    <img src="./images/SemanticLabel.png" alt="MITMiniCheetah">
+                    <img src="./images/minicheetah.jpg" alt="MITMiniCheetah">
                 </p>
                 <p>
                     The MIT MiniCheetah is a quadrupedal robot designed and developed by the Massachusetts Institute of Technology's Biomimetic Robotics Laboratory. (GPT-3.5 Generated Placeholder)
                 </p>
             </div>
             <div>
-                Unitree A1
+                Unitree Go1
                 <p>
-                    <img src="./images/Carla.png" alt="UnitreeA1">
+                    <img src="./images/unitreego1.jpeg" alt="UnitreeGo1">
                 </p>
                 <p>
-                    The Unitree A1 is a quadruped robot designed and manufactured by the Chinese robotics company, Unitree Robotics. It is a highly agile and versatile robot that is capable of a wide range of movements and tasks. (GPT-3.5 Generated Placeholder)
+                    The Unitree Go1 is a quadruped robot designed and manufactured by Unitree Robotics. It is a highly agile and versatile robot that is capable of a wide range of movements and tasks. (GPT-3.5 Generated Placeholder)
                 </p>
             </div>
             <!-- <p class="small">
