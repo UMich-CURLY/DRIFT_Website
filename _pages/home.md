@@ -19,6 +19,7 @@ redirect_from: /sitemap/
 
 <div class="page__lead">
     <div class="page__content">
+    Tested Platforms
         <div class="HOME-feature-block">
             <div>
                 Husky
