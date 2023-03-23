@@ -22,7 +22,7 @@ redirect_from: /sitemap/
     <b>Tested Platforms</b>
         <div class="HOME-feature-block">
             <div>
-                Husky
+                <a href="https://clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/">Husky</a>
                 <p>
                     <img src="./images/husky.jpeg" alt="Husky" style="border-radius:10px">
                 </p>
@@ -31,7 +31,7 @@ redirect_from: /sitemap/
                 </p>-->
             </div>
             <div>
-                MIT MiniCheetah
+                <a href="https://www.naverlabs.com/mini-cheetah">MIT MiniCheetah</a>
                 <p>
                     <img src="./images/minicheetah.jpg" alt="MITMiniCheetah" style="border-radius:10px">
                 </p>
@@ -40,7 +40,7 @@ redirect_from: /sitemap/
                 </p>-->
             </div>
             <div>
-                Unitree Go1
+                <a href="https://shop.unitree.com/products/unitreeyushutechnologydog-artificial-intelligence-companion-bionic-companion-intelligent-robot-go1-quadruped-robot-dog">Unitree Go1</a>
                 <p>
                     <img src="./images/unitreego1.jpeg" alt="UnitreeGo1" style="border-radius:10px">
                 </p>
