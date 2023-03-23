@@ -21,30 +21,30 @@ redirect_from: /sitemap/
     <div class="page__content">
         <div class="HOME-feature-block">
             <div>
-                Trace Free Scenes
+                Husky
                 <p>
-                    <img src="./images/TraceFree.png" alt="Trace Free">
+                    <img src="./images/TraceFree.png" alt="Husky">
                 </p>
                 <p>
-                    CarlaSC scenes are sampled from multiple viewpoints, ensuring minimal occlusions and no traces left by dynamic objects. The image above showcases MotionSC lack of traces for dynamic objects compared to SemanticKITTI, another well known vision benchmark.
-                </p>
-            </div>
-            <div>
-                Sequential Labels
-                <p>
-                    <img src="./images/SemanticLabel.png" alt="SemanticLabel">
-                </p>
-                <p>
-                    Data is captured at 10Hz and semantic labels along with scene flow data ground truth data is provided for each frame. This provides more information for scene understanding over multiple scans.
+                    The Husky robot is a mobile robot platform designed and manufactured by Clearpath Robotics, a Canadian robotics company. The robot is designed for use in research, industrial, and commercial applications, and is widely used in fields such as robotics, computer vision, and artificial intelligence research. (GPT-3.5 Generated Placeholder)
                 </p>
             </div>
             <div>
-                Synthetic Data
+                MIT MiniCheetah
                 <p>
-                    <img src="./images/Carla.png" alt="Carla">
+                    <img src="./images/SemanticLabel.png" alt="MITMiniCheetah">
                 </p>
                 <p>
-                    CarlaSC is generated using CARLA, an open source simulator for autonomous driving research. This enables high customizability, from the number of dynamic objects to the position and number of sensors.
+                    The MIT MiniCheetah is a quadrupedal robot designed and developed by the Massachusetts Institute of Technology's Biomimetic Robotics Laboratory. (GPT-3.5 Generated Placeholder)
+                </p>
+            </div>
+            <div>
+                Unitree A1
+                <p>
+                    <img src="./images/Carla.png" alt="UnitreeA1">
+                </p>
+                <p>
+                    The Unitree A1 is a quadruped robot designed and manufactured by the Chinese robotics company, Unitree Robotics. It is a highly agile and versatile robot that is capable of a wide range of movements and tasks. (GPT-3.5 Generated Placeholder)
                 </p>
             </div>
             <!-- <p class="small">
@@ -57,10 +57,11 @@ redirect_from: /sitemap/
 <div class="page__content">
     Getting started
     <p class="small">
-        A description of the dataset and its properties can be found in the <a href="./dataset/">Dataset</a> page on this website. To download it, please visit the <a href="./download/">Download</a> page to download the Cartesian or Cylindrical dataset version. An example of how to use the dataset can be found on the <a href="https://github.com/UMich-CURLY/3DMapping">MotionSC Github</a> repository. This repository contains the CarlaSC dataloader used in the MotionSC paper as well as python visualization scripts.
+        Code for this project can be found in the <a href="https://github.com/UMich-CURLY/curly-state-estimator"> Github</a> repository.
     </p>
 </div>  
 
+<!--
 <div class="page__content">
     <div>
         Paper
@@ -76,4 +77,5 @@ redirect_from: /sitemap/
         </p>
     </p>
 </div>  
+-->
 
