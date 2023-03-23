@@ -24,7 +24,7 @@ redirect_from: /sitemap/
             <div>
                 Husky
                 <p>
-                    <img src="./images/husky.jpeg" alt="Husky">
+                    <img src="./images/husky.jpeg" alt="Husky" style="border-radius:10px">
                 </p>
                 <p>
                     The Husky robot is a mobile robot platform designed and manufactured by Clearpath Robotics, a Canadian robotics company. The robot is designed for use in research, industrial, and commercial applications, and is widely used in fields such as robotics, computer vision, and artificial intelligence research. (GPT-3.5 Generated Placeholder)
@@ -33,7 +33,7 @@ redirect_from: /sitemap/
             <div>
                 MIT MiniCheetah
                 <p>
-                    <img src="./images/minicheetah.jpg" alt="MITMiniCheetah">
+                    <img src="./images/minicheetah.jpg" alt="MITMiniCheetah" style="border-radius:10px">
                 </p>
                 <p>
                     The MIT MiniCheetah is a quadrupedal robot designed and developed by the Massachusetts Institute of Technology's Biomimetic Robotics Laboratory. (GPT-3.5 Generated Placeholder)
@@ -42,7 +42,7 @@ redirect_from: /sitemap/
             <div>
                 Unitree Go1
                 <p>
-                    <img src="./images/unitreego1.jpeg" alt="UnitreeGo1">
+                    <img src="./images/unitreego1.jpeg" alt="UnitreeGo1" style="border-radius:10px">
                 </p>
                 <p>
                     The Unitree Go1 is a quadruped robot designed and manufactured by Unitree Robotics. It is a highly agile and versatile robot that is capable of a wide range of movements and tasks. (GPT-3.5 Generated Placeholder)
