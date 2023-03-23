@@ -58,7 +58,7 @@ redirect_from: /sitemap/
 <div class="page__content">
     Getting started
     <p class="small">
-        Code for this project can be found in the <a href="https://github.com/UMich-CURLY/curly-state-estimator"> Github</a> repository.
+        Code for this project can be found in the <a href="https://github.com/UMich-CURLY/curly_state_estimator"> Github</a> repository.
     </p>
 </div>  
 
