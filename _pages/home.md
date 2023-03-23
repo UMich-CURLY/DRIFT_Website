@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: /sitemap/
 ---
 
-<p float="middle">Dead Reckoning for Robotics In Field Time (DRIFT): An Invariant Extend Kalman Filter Based Mobile Robot State Estimator Library</p>
+<p float="middle">Dead Reckoning for Robotics In Field Time (DRIFT): An Invariant Extended Kalman Filter Based Mobile Robot State Estimator Library</p>
 <h1 id="h.uigj53erdbnu" dir="ltr" class="zfr3Q duRjpb CDt4Ke " style="background-color: transparent; border-bottom: none; border-left: none; border-right: none; border-top: none; margin-bottom: 10.0pt; margin-top: 0.0pt; padding-bottom: 0.0pt; padding-left: 0.0pt; padding-right: 0.0pt; padding-top: 0.0pt; text-align: center;"><span class="C9DxTc " style="font-family: Arial; font-size: 12.0pt; font-variant: normal; font-weight: 700; vertical-align: baseline;">Tzu-Yuan Lin &nbsp; &nbsp; &nbsp; Tingjun Li &nbsp; &nbsp; &nbsp; Jonathan Tong &nbsp; &nbsp; &nbsp; Justin Yu</span></h1>
 
 <p dir="ltr" class="zfr3Q CDt4Ke " style="background-color: transparent; border-bottom: none; border-left: none; border-right: none; border-top: none; margin-bottom: 10.0pt; margin-top: 0.0pt; padding-bottom: 0.0pt; padding-left: 0.0pt; padding-right: 0.0pt; padding-top: 0.0pt; text-align: center;"><span class="C9DxTc " style="font-variant: normal;">University of Michigan, Ann Arbor, MI, USA&nbsp;</span></p>
