@@ -19,7 +19,7 @@ redirect_from: /sitemap/
 
 <div class="page__lead">
     <div class="page__content">
-    Tested Platforms
+    <b>Tested Platforms</b>
         <div class="HOME-feature-block">
             <div>
                 Husky
@@ -56,7 +56,7 @@ redirect_from: /sitemap/
 </div>
 
 <div class="page__content">
-    Getting started
+    <b>Getting started</b>
     <p class="small">
         Code for this project can be found in the <a href="https://github.com/UMich-CURLY/curly_state_estimator"> Github</a> repository.
     </p>
