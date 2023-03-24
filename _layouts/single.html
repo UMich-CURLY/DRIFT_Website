@@ -32,7 +32,8 @@ layout: default
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
       <header>
-        {% if page.title == "DRIFT"%}<h1 class="page__title" itemprop="headline" style="text-align:center">{{ page.title
+        {% if page.title == "DRIFT"%}<h1 class="page__title" itemprop="headline"
+          style="text-align:center; font-size:33pt">{{ page.title
           |
           markdownify | remove: "<p>" | remove: "</p>" }}</h1>
         {%else%}
