@@ -1,8 +1,8 @@
-%---
-%permalink: /tutorials/
-%title: "Tutorials"
-%author_profile: true
-%---
+---
+permalink: /tutorials/
+title: "Tutorials"
+author_profile: true
+---
 
 ## Tutorials
 
