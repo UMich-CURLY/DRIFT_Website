@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "DRIFT"
-excerpt: "About me"
+excerpt: "Dead Reckoning for Robotics in Field Time"
 author_profile: true
 redirect_from: /sitemap/
 ---
