@@ -13,7 +13,7 @@ redirect_from: /sitemap/
 
 <p float="middle">
 <div>
-    <video autoplay="autoplay" src="./images/placeholder.mp4" controls="controls" width="100%" />
+    <video controls muted autoplay="autoplay" src="./images/placeholder.mp4" controls="controls" width="100%" />
     <script>
     document.getElementById('vid').play();
     </script>
