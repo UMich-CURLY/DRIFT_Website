@@ -36,27 +36,27 @@ Dead Reckoning for Robotics In Field Time (DRIFT), is an open-source software li
     <b>Tested Platforms</b>
         <div class="HOME-feature-block">
             <div>
-                <a href="https://clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/">Husky</a>
+                Husky
                 <p>
-                    <img src="./images/husky.jpeg" alt="Husky" style="border-radius:10px">
+                   <a href="https://clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/"><img src="./images/husky.jpeg" alt="Husky" style="border-radius:10px"></a>
                 </p>
                 <!--<p>
                     The Husky robot is a wheeled mobile robot platform designed and manufactured by Clearpath Robotics, a Canadian robotics company.
                 </p>-->
             </div>
             <div>
-                <a href="https://www.naverlabs.com/mini-cheetah">MIT MiniCheetah</a>
+                MIT MiniCheetah
                 <p>
-                    <img src="./images/minicheetah.jpg" alt="MITMiniCheetah" style="border-radius:10px">
+                    <a href="https://www.naverlabs.com/mini-cheetah"><img src="./images/minicheetah.jpg" alt="MITMiniCheetah" style="border-radius:10px"></a>
                 </p>
                 <!--<p>
                     The MIT MiniCheetah is a quadrupedal robot designed and developed by the Massachusetts Institute of Technology's Biomimetic Robotics Laboratory.
                 </p>-->
             </div>
             <div>
-                <a href="https://shop.unitree.com/products/unitreeyushutechnologydog-artificial-intelligence-companion-bionic-companion-intelligent-robot-go1-quadruped-robot-dog">Unitree Go1</a>
+                Unitree Go1
                 <p>
-                    <img src="./images/unitreego1.jpeg" alt="UnitreeGo1" style="border-radius:10px">
+                    <a href="https://shop.unitree.com/products/unitreeyushutechnologydog-artificial-intelligence-companion-bionic-companion-intelligent-robot-go1-quadruped-robot-dog"><img src="./images/unitreego1.jpeg" alt="UnitreeGo1" style="border-radius:10px"></a>
                 </p>
                 <!--<p>
                     The Unitree Go1 is a quadruped robot designed and manufactured by Unitree Robotics.
