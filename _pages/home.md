@@ -19,12 +19,10 @@ redirect_from: /sitemap/
 <div class="page__lead">
     <div class="page__content">
     <b>Description</b>
-        <div class="HOME-feature-block">
-            <div>
-                <p class="small">
+        <div>
+            <p class="small">
 Dead Reckoning for Robotics In Field Time, is an innovative open-source software library designed to provide accurate and reliable state estimation for a variety of mobile robot architectures, including quadrupeds, bipeds, and wheeled platforms. Leveraging cutting-edge invariant extended Kalman filtering (inEKF) techniques, this comprehensive library empowers roboticists and engineers with a robust and adaptable tool for optimizing their robotic systems' performance in diverse environments. With its versatility and state-of-the-art approach, DRIFT aims to revolutionize mobile robot navigation, enhancing real-time localization, and promoting seamless integration across numerous robotic platforms.
                 </p>
-            </div>
         </div>
     </div>
 </div>
