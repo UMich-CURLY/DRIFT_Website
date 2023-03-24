@@ -13,8 +13,8 @@ redirect_from: /sitemap/
 
 <p float="middle">
 <div>
-    <!--<video autoplay="autoplay" src="./images/town10h_wh_4x.mp4" controls="controls" width="100%" />-->
-    <iframe style="width:100%" src=" https://www.youtube.com/embed/oVbP-Y8xT_E?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="false" id="fitvid0"></iframe>
+    <video autoplay="autoplay" src="./images/placeholder.mp4" controls="controls" width="100%" />
+    <!--<iframe style="width:100%" src=" https://www.youtube.com/embed/oVbP-Y8xT_E?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="false" id="fitvid0"></iframe>-->
 </div>
 </p>
 <div class="page__lead">
