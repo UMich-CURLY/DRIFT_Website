@@ -1,7 +1,7 @@
 # main links links
 main:
-#  - title: "Dataset"
-#    url: /dataset/
+  - title: "Tutorials"
+    url: /tutorials/
 
 #  - title: "Networks"
 #    url: /networks/
