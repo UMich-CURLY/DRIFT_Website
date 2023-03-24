@@ -13,7 +13,8 @@ redirect_from: /sitemap/
 
 <p float="middle">
 <div>
-    <video autoplay="autoplay" src="./images/town10h_wh_4x.mp4" controls="controls" width="100%" />
+    <!--<video autoplay="autoplay" src="./images/town10h_wh_4x.mp4" controls="controls" width="100%" />-->
+    <iframe style="height:380px;width:80%" src=" https://www.youtube.com/embed/oVbP-Y8xT_E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="false"></iframe>
 </div>
 </p>
 <div class="page__lead">
