@@ -1,0 +1,10 @@
+<map id="/Users/justinyu/Desktop/curly_state_estimator/include/filter/base_correction.h" name="/Users/justinyu/Desktop/curly_state_estimator/include/filter/base_correction.h">
+<area shape="rect" id="node1" title="Header file for base correction method." alt="" coords="302,5,505,60"/>
+<area shape="rect" id="node2" href="$legged__kinematics__correction_8h.html" title="Header file for Invariant EKF kinematic correction method." alt="" coords="91,108,300,177"/>
+<area shape="rect" id="node3" href="$state__estimator_8h.html" title="Header file for state estimator class." alt="" coords="253,233,423,287"/>
+<area shape="rect" id="node6" href="$velocity__correction_8h.html" title="Header file for Invariant EKF velocity correction method." alt="" coords="375,108,565,177"/>
+<area shape="rect" id="node8" href="$base__correction_8cpp.html" title="Source file for base correction method." alt="" coords="589,115,783,170"/>
+<area shape="rect" id="node5" href="$legged__kinematics__correction_8cpp.html" title=" " alt="" coords="5,225,228,295"/>
+<area shape="rect" id="node4" href="$state__estimator_8cpp.html" title="Source file for state estimator class." alt="" coords="257,343,419,397"/>
+<area shape="rect" id="node7" href="$velocity__correction_8cpp.html" title="Source file for Invariant EKF velocity correction method." alt="" coords="448,225,615,295"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="/Users/justinyu/Desktop/curly_state_estimator/include/state/se_k_3.h" name="/Users/justinyu/Desktop/curly_state_estimator/include/state/se_k_3.h">
+<area shape="rect" id="node1" title="Header file for various SE(3) functions." alt="" coords="736,5,898,60"/>
+<area shape="rect" id="node2" href="$robot__state_8h.html" title="Header file for robot state." alt="" coords="630,108,810,163"/>
+<area shape="rect" id="node18" href="$se__k__3_8cpp.html" title="Source file for various SE(3) functions." alt="" coords="834,108,997,163"/>
+<area shape="rect" id="node3" href="$base__correction_8h.html" title="Header file for base correction method." alt="" coords="294,211,497,265"/>
+<area shape="rect" id="node5" href="$state__estimator_8h.html" title="Header file for state estimator class." alt="" coords="408,438,578,493"/>
+<area shape="rect" id="node11" href="$base__propagation_8h.html" title="Header file for base propagation method." alt="" coords="929,211,1142,265"/>
+<area shape="rect" id="node15" href="$inekf_8h.html" title="Header file for Invariant EKF. Original paper: https://journals.sagepub.com/doi/full/10...." alt="" coords="634,211,805,265"/>
+<area shape="rect" id="node17" href="$robot__state_8cpp.html" title="Source file for RobotState." alt="" coords="1166,211,1337,265"/>
+<area shape="rect" id="node4" href="$legged__kinematics__correction_8h.html" title="Header file for Invariant EKF kinematic correction method." alt="" coords="515,313,724,383"/>
+<area shape="rect" id="node8" href="$velocity__correction_8h.html" title="Header file for Invariant EKF velocity correction method." alt="" coords="301,313,490,383"/>
+<area shape="rect" id="node10" href="$base__correction_8cpp.html" title="Source file for base correction method." alt="" coords="32,321,226,375"/>
+<area shape="rect" id="node7" href="$legged__kinematics__correction_8cpp.html" title=" " alt="" coords="603,431,826,500"/>
+<area shape="rect" id="node6" href="$state__estimator_8cpp.html" title="Source file for state estimator class." alt="" coords="412,548,574,603"/>
+<area shape="rect" id="node9" href="$velocity__correction_8cpp.html" title="Source file for Invariant EKF velocity correction method." alt="" coords="216,431,383,500"/>
+<area shape="rect" id="node12" href="$imu__propagation_8h.html" title="Header file for Invariant EKF imu propagation method Part of the code is modified from Ross Hartley&#39;s..." alt="" coords="936,313,1135,383"/>
+<area shape="rect" id="node14" href="$base__propagation_8cpp.html" title="Source file for base propagation method." alt="" coords="1211,321,1415,375"/>
+<area shape="rect" id="node13" href="$imu__propagation_8cpp.html" title="Source file for Invariant EKF imu propagation method Part of the code is modified from Ross Hartley&#39;s..." alt="" coords="948,431,1124,500"/>
+<area shape="rect" id="node16" href="$inekf_8cpp.html" title=" " alt="" coords="749,321,912,375"/>
+</map>

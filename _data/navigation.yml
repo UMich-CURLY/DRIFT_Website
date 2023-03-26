@@ -3,8 +3,8 @@ main:
   - title: "Tutorials"
     url: /tutorials/
 
-  - title: "Documentation"
-    url: /documentation/
+#  - title: "Documentation"
+#    url: /documentation/
 
 #  - title: "Download"
 #    url: /download/

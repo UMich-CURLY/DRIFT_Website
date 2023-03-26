@@ -1,0 +1,7 @@
+<map id="/Users/justinyu/Desktop/curly_state_estimator/include/measurement/velocity.h" name="/Users/justinyu/Desktop/curly_state_estimator/include/measurement/velocity.h">
+<area shape="rect" id="node1" title="Header file for robot velocity estimate." alt="" coords="52,5,260,60"/>
+<area shape="rect" id="node2" href="$velocity__correction_8h.html" title="Header file for Invariant EKF velocity correction method." alt="" coords="128,108,317,177"/>
+<area shape="rect" id="node3" href="$state__estimator_8h.html" title="Header file for state estimator class." alt="" coords="5,233,176,287"/>
+<area shape="rect" id="node5" href="$velocity__correction_8cpp.html" title="Source file for Invariant EKF velocity correction method." alt="" coords="201,225,367,295"/>
+<area shape="rect" id="node4" href="$state__estimator_8cpp.html" title="Source file for state estimator class." alt="" coords="9,343,172,397"/>
+</map>

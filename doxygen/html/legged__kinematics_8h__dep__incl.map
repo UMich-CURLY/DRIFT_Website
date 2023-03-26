@@ -1,0 +1,10 @@
+<map id="/Users/justinyu/Desktop/curly_state_estimator/include/measurement/legged_kinematics.h" name="/Users/justinyu/Desktop/curly_state_estimator/include/measurement/legged_kinematics.h">
+<area shape="rect" id="node1" title="Header file for legged robot kinematics state measurement." alt="" coords="301,5,493,75"/>
+<area shape="rect" id="node2" href="$legged__kinematics__correction_8h.html" title="Header file for Invariant EKF kinematic correction method." alt="" coords="187,123,397,192"/>
+<area shape="rect" id="node3" href="$state__estimator_8h.html" title="Header file for state estimator class." alt="" coords="5,247,176,302"/>
+<area shape="rect" id="node6" href="$mini__cheetah__kinematics_8h.html" title="Header file for Mini Cheetah specific kinematics solver and measurement container." alt="" coords="421,123,584,192"/>
+<area shape="rect" id="node8" href="$legged__kinematics_8cpp.html" title=" " alt="" coords="609,123,778,192"/>
+<area shape="rect" id="node5" href="$legged__kinematics__correction_8cpp.html" title=" " alt="" coords="201,240,423,309"/>
+<area shape="rect" id="node4" href="$state__estimator_8cpp.html" title="Source file for state estimator class." alt="" coords="9,357,172,412"/>
+<area shape="rect" id="node7" href="$mini__cheetah__kinematics_8cpp.html" title=" " alt="" coords="448,240,640,309"/>
+</map>

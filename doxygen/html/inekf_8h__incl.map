@@ -1,0 +1,15 @@
+<map id="/Users/justinyu/Desktop/curly_state_estimator/include/filter/inekf/inekf.h" name="/Users/justinyu/Desktop/curly_state_estimator/include/filter/inekf/inekf.h">
+<area shape="rect" id="node1" title="Header file for Invariant EKF. Original paper: https://journals.sagepub.com/doi/full/10...." alt="" coords="282,5,453,60"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,255,103,280"/>
+<area shape="rect" id="node3" title=" " alt="" coords="826,108,901,133"/>
+<area shape="rect" id="node4" title=" " alt="" coords="146,255,218,280"/>
+<area shape="rect" id="node5" title=" " alt="" coords="587,255,633,280"/>
+<area shape="rect" id="node6" title=" " alt="" coords="725,255,783,280"/>
+<area shape="rect" id="node7" href="$lie__group_8h.html" title="Header file for various Lie Group functions." alt="" coords="119,181,237,207"/>
+<area shape="rect" id="node9" href="$robot__state_8h.html" title="Header file for robot state." alt="" coords="302,108,433,133"/>
+<area shape="rect" id="node8" title=" " alt="" coords="281,255,339,280"/>
+<area shape="rect" id="node10" title=" " alt="" coords="581,181,650,207"/>
+<area shape="rect" id="node11" title=" " alt="" coords="373,255,428,280"/>
+<area shape="rect" id="node12" title=" " alt="" coords="445,181,556,207"/>
+<area shape="rect" id="node13" href="$se__k__3_8h.html" title="Header file for various SE(3) functions." alt="" coords="313,181,421,207"/>
+</map>

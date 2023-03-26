@@ -1,0 +1,6 @@
+<map id="/Users/justinyu/Desktop/curly_state_estimator/include/filter/inekf/correction/velocity_correction.h" name="/Users/justinyu/Desktop/curly_state_estimator/include/filter/inekf/correction/velocity_correction.h">
+<area shape="rect" id="node1" title="Header file for Invariant EKF velocity correction method." alt="" coords="92,5,281,75"/>
+<area shape="rect" id="node2" href="$state__estimator_8h.html" title="Header file for state estimator class." alt="" coords="5,130,176,185"/>
+<area shape="rect" id="node4" href="$velocity__correction_8cpp.html" title="Source file for Invariant EKF velocity correction method." alt="" coords="201,123,367,192"/>
+<area shape="rect" id="node3" href="$state__estimator_8cpp.html" title="Source file for state estimator class." alt="" coords="9,240,172,295"/>
+</map>
