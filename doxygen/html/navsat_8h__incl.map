@@ -1,9 +1,0 @@
-<map id="/Users/justinyu/Desktop/curly_state_estimator/include/measurement/navsat.h" name="/Users/justinyu/Desktop/curly_state_estimator/include/measurement/navsat.h">
-<area shape="rect" id="node1" title="Header file for robot nav sat (gps) position estimate measurement." alt="" coords="47,5,251,60"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,115,68,141"/>
-<area shape="rect" id="node3" href="$measurement_8h.html" title="Header file for measurement base class." alt="" coords="93,115,205,141"/>
-<area shape="rect" id="node7" href="$navsat__impl_8cpp.html" title=" " alt="" coords="229,108,401,148"/>
-<area shape="rect" id="node4" title=" " alt="" coords="25,196,97,221"/>
-<area shape="rect" id="node5" title=" " alt="" coords="121,196,176,221"/>
-<area shape="rect" id="node6" title=" " alt="" coords="200,196,297,221"/>
-</map>

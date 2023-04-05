@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['leg_0',['Leg',['../mini__cheetah__kinematics_8h.html#a496f47ce108ec5e65a84f602c5e2b879',1,'mini_cheetah_kinematics.h']]]
+  ['leg_0',['Leg',['../namespacemini__cheetah__kinematics.html#ae614010af7e33aedc2ede8f0f3610304',1,'mini_cheetah_kinematics']]]
 ];

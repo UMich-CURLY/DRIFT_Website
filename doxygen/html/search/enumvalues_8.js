@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['navsat_0',['NAVSAT',['../measurement_8h.html#ad35f880f44d18d9c643f02c4057034f7abd4258be3226cc8e3a5d5480132b0013',1,'measurement.h']]]
+  ['rightinvariant_0',['RightInvariant',['../namespacefilter_1_1inekf.html#a7ef14ea922d7f9fc9e348cb4a18e1823ae7df841b5d75339663cd0553cd0c23f9',1,'filter::inekf']]]
 ];

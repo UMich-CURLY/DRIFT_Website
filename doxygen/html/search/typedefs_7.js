@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['velocitymeasurementptr_0',['VelocityMeasurementPtr',['../namespaceinekf.html#a06ab801149d642003522a6ac2b320f02',1,'inekf']]],
-  ['velocityqueue_1',['VelocityQueue',['../namespaceinekf.html#a90218d438ee1156a22eb4940c022fd45',1,'inekf']]],
-  ['velocityqueueptr_2',['VelocityQueuePtr',['../namespaceinekf.html#a82f513cf573db02f1498ec3e5260407f',1,'inekf']]]
+  ['robotstatequeue_0',['RobotStateQueue',['../inekf__estimator_8h.html#aa96b6987dd971f61e2017aeb3a95d463',1,'RobotStateQueue():&#160;inekf_estimator.h'],['../ros__publisher_8h.html#aa96b6987dd971f61e2017aeb3a95d463',1,'RobotStateQueue():&#160;ros_publisher.h']]],
+  ['robotstatequeueptr_1',['RobotStateQueuePtr',['../inekf__estimator_8h.html#a64c0065bd95d5bc87f07b183e516aa95',1,'RobotStateQueuePtr():&#160;inekf_estimator.h'],['../ros__publisher_8h.html#a64c0065bd95d5bc87f07b183e516aa95',1,'RobotStateQueuePtr():&#160;ros_publisher.h']]]
 ];

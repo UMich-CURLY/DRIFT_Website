@@ -1,6 +1,6 @@
 <map id="MiniCheetahKinematics" name="MiniCheetahKinematics">
-<area shape="rect" id="node1" title=" " alt="" coords="29,257,189,283"/>
-<area shape="rect" id="node2" href="$classLeggedKinematicsMeasurement.html" title=" " alt="" coords="5,183,213,208"/>
-<area shape="rect" id="node3" href="$classMeasurement.html" title=" " alt="" coords="59,108,160,133"/>
-<area shape="rect" id="node4" title=" " alt="" coords="15,5,203,45"/>
+<area shape="rect" id="node1" title="Mini Cheetah specific kinematics solver and measurement container." alt="" coords="37,272,215,297"/>
+<area shape="rect" id="node2" href="$classmeasurement_1_1LeggedKinematicsMeasurement.html" title="Derived measurement class containing information about body&#45;to&#45;foot kinematics." alt="" coords="5,183,247,223"/>
+<area shape="rect" id="node3" href="$classmeasurement_1_1Measurement.html" title="class for robot&#45;state instantaneous measurement. contact state." alt="" coords="21,108,231,133"/>
+<area shape="rect" id="node4" title=" " alt="" coords="21,5,231,45"/>
 </map>

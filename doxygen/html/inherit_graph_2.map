@@ -1,10 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classMeasurement.html" title=" " alt="" coords="5,129,107,155"/>
-<area shape="rect" id="node2" href="$classContactMeasurement.html" title=" " alt="" coords="185,5,332,31"/>
-<area shape="rect" id="node3" href="$classImuMeasurement.html" title=" " alt="" coords="181,55,336,80"/>
-<area shape="rect" id="node4" href="$classJointStateMeasurement.html" title=" " alt="" coords="163,104,355,129"/>
-<area shape="rect" id="node5" href="$classLeggedKinematicsMeasurement.html" title=" " alt="" coords="155,153,363,179"/>
-<area shape="rect" id="node7" href="$classNavSatMeasurement.html" title=" " alt="" coords="170,203,347,228"/>
-<area shape="rect" id="node8" href="$classVelocityMeasurement.html" title=" " alt="" coords="169,252,349,277"/>
-<area shape="rect" id="node6" href="$classMiniCheetahKinematics.html" title=" " alt="" coords="411,153,571,179"/>
+<area shape="rect" id="node1" href="$structfilter_1_1inekf_1_1ContactInfo.html" title="A struct for contact information." alt="" coords="5,5,181,31"/>
 </map>

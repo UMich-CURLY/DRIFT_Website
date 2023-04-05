@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['hl_0',['HL',['../mini__cheetah__kinematics_8h.html#a496f47ce108ec5e65a84f602c5e2b879aad18f3a107c5bc020bff8923ad43bbc1',1,'mini_cheetah_kinematics.h']]],
-  ['hr_1',['HR',['../mini__cheetah__kinematics_8h.html#a496f47ce108ec5e65a84f602c5e2b879af95cdb991fb8094878fdec62d95fd0d6',1,'mini_cheetah_kinematics.h']]]
+  ['hl_0',['HL',['../namespacemini__cheetah__kinematics.html#ae614010af7e33aedc2ede8f0f3610304adaf2f2ace10f9bdb71a22816367ca6de',1,'mini_cheetah_kinematics']]],
+  ['hr_1',['HR',['../namespacemini__cheetah__kinematics.html#ae614010af7e33aedc2ede8f0f3610304a3657a459d9f4500d2d64b830f7176b34',1,'mini_cheetah_kinematics']]]
 ];

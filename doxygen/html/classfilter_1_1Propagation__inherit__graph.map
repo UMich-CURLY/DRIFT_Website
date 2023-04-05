@@ -1,0 +1,4 @@
+<map id="filter::Propagation" name="filter::Propagation">
+<area shape="rect" id="node1" title="Base class for propagation method." alt="" coords="38,5,177,31"/>
+<area shape="rect" id="node2" href="$classfilter_1_1inekf_1_1ImuPropagation.html" title="A class for state propagation using imu measurement data." alt="" coords="5,79,209,104"/>
+</map>

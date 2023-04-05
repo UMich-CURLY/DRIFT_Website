@@ -1,0 +1,4 @@
+<map id="filter::inekf::VelocityCorrection" name="filter::inekf::VelocityCorrection">
+<area shape="rect" id="node1" title="A class for state correction using velocity measurement data." alt="" coords="5,79,227,104"/>
+<area shape="rect" id="node2" href="$classfilter_1_1Correction.html" title="Base class for correction method." alt="" coords="52,5,180,31"/>
+</map>

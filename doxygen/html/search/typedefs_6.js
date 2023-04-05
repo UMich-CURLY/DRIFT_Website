@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['robotstatequeue_0',['RobotStateQueue',['../state__estimator_8h.html#aa96b6987dd971f61e2017aeb3a95d463',1,'state_estimator.h']]],
-  ['robotstatequeueptr_1',['RobotStateQueuePtr',['../state__estimator_8h.html#a64c0065bd95d5bc87f07b183e516aa95',1,'state_estimator.h']]]
+  ['measurementqueue_0',['MeasurementQueue',['../base__correction_8h.html#a5bd236014d1ffe11eb265666f0b6a9ad',1,'MeasurementQueue():&#160;base_correction.h'],['../base__propagation_8h.html#a5bd236014d1ffe11eb265666f0b6a9ad',1,'MeasurementQueue():&#160;base_propagation.h']]],
+  ['measurementqueueptr_1',['MeasurementQueuePtr',['../base__correction_8h.html#a8e77af02b888a3b41151a1bfdef770c1',1,'MeasurementQueuePtr():&#160;base_correction.h'],['../base__propagation_8h.html#a8e77af02b888a3b41151a1bfdef770c1',1,'MeasurementQueuePtr():&#160;base_propagation.h']]]
 ];

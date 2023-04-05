@@ -1,0 +1,5 @@
+<map id="filter::Correction" name="filter::Correction">
+<area shape="rect" id="node1" title="Base class for correction method." alt="" coords="175,5,303,31"/>
+<area shape="rect" id="node2" href="$classfilter_1_1inekf_1_1LeggedKinematicsCorrection.html" title="A class for state correction using foot kinematics and contact events." alt="" coords="5,79,227,119"/>
+<area shape="rect" id="node3" href="$classfilter_1_1inekf_1_1VelocityCorrection.html" title="A class for state correction using velocity measurement data." alt="" coords="251,86,472,111"/>
+</map>

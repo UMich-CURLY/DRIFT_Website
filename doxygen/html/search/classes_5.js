@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['navsatmeasurement_0',['NavSatMeasurement',['../classNavSatMeasurement.html',1,'']]]
+  ['propagation_0',['Propagation',['../classfilter_1_1Propagation.html',1,'filter']]]
 ];

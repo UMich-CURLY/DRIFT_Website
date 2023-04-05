@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['velocitycorrection_0',['VelocityCorrection',['../classinekf_1_1VelocityCorrection.html#aee93ac6467277554bfd8266b6477cf86',1,'inekf::VelocityCorrection']]],
-  ['velocitymeasurement_1',['VelocityMeasurement',['../classVelocityMeasurement.html#af362d6fd19022dc819e92119921ea286',1,'VelocityMeasurement']]]
+  ['velocitycorrection_0',['VelocityCorrection',['../classfilter_1_1inekf_1_1VelocityCorrection.html#a322a50bb540e340bddf6ab5ab1cae472',1,'filter::inekf::VelocityCorrection']]],
+  ['velocitymeasurement_1',['VelocityMeasurement',['../classmeasurement_1_1VelocityMeasurement.html#a9040f18b627f56f81086f264d3fe6d69',1,'measurement::VelocityMeasurement']]]
 ];

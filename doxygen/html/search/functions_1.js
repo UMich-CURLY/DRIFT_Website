@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['biasinitialized_0',['BiasInitialized',['../classStateEstimator.html#ad9559fb006ed527eb5567bbfcc2282e7',1,'StateEstimator']]]
+  ['biasinitialized_0',['BiasInitialized',['../classestimator_1_1InekfEstimator.html#a6c04f19ebb92096cfa8d8c08a9a97436',1,'estimator::InekfEstimator']]]
 ];

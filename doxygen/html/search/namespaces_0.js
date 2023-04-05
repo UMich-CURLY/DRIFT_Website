@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['inekf_0',['inekf',['../namespaceinekf.html',1,'']]]
+  ['estimator_0',['estimator',['../namespaceestimator.html',1,'']]]
 ];

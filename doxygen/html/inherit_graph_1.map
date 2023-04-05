@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structinekf_1_1ContactInfo.html" title=" " alt="" coords="5,5,132,31"/>
+<area shape="rect" id="node1" href="$classfilter_1_1Correction.html" title="Base class for correction method." alt="" coords="5,42,133,67"/>
+<area shape="rect" id="node2" href="$classfilter_1_1inekf_1_1LeggedKinematicsCorrection.html" title="A class for state correction using foot kinematics and contact events." alt="" coords="181,5,403,45"/>
+<area shape="rect" id="node3" href="$classfilter_1_1inekf_1_1VelocityCorrection.html" title="A class for state correction using velocity measurement data." alt="" coords="181,70,403,95"/>
 </map>

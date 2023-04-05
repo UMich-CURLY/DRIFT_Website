@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structMeasurementCompare.html" title=" " alt="" coords="5,5,160,31"/>
+<area shape="rect" id="node1" href="$classfilter_1_1Propagation.html" title="Base class for propagation method." alt="" coords="5,5,144,31"/>
+<area shape="rect" id="node2" href="$classfilter_1_1inekf_1_1ImuPropagation.html" title="A class for state propagation using imu measurement data." alt="" coords="192,5,396,31"/>
 </map>

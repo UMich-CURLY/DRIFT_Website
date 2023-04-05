@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['kinematicsmeasurementptr_0',['KinematicsMeasurementPtr',['../namespaceinekf.html#a70d9cc5e2c7b15943c3076663434a796',1,'inekf']]],
-  ['kinematicsqueue_1',['KinematicsQueue',['../namespaceinekf.html#af0aeed6ea8ed347fdf6d55d6a34d6293',1,'inekf']]]
+  ['jointstatemsgfiltert_0',['JointStateMsgFilterT',['../ros__subscriber_8h.html#a71099fb9c12ec334e5eac593d2006722',1,'ros_subscriber.h']]],
+  ['jointstatemsgfiltertptr_1',['JointStateMsgFilterTPtr',['../ros__subscriber_8h.html#add46b5940e6661d97c9a20d807661f46',1,'ros_subscriber.h']]]
 ];
