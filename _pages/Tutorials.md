@@ -3,7 +3,17 @@ permalink: /tutorials/
 title: "Tutorials"
 author_profile: true
 ---
+### <a href="https://umich-curly.github.io/DRIFT_Website/doxygen/html/md__home_tingjunl_code_curly_state_estimator_doc_tutorial_inekf_imu_and_vel_ros.html">Getting Started</a> 
+<br>
 
+### <a href="https://umich-curly.github.io/DRIFT_Website/doxygen/html/md__home_tingjunl_code_curly_state_estimator_doc_tutorial_inekf_imu_and_legged_kin_ros.html">[ROS] InEKF, IMU + Legged Kinematics Tutorial</a> 
+<br>
+
+### <a href="https://umich-curly.github.io/DRIFT_Website/doxygen/html/md__home_tingjunl_code_curly_state_estimator_doc_tutorial_inekf_imu_and_vel_ros.html">[ROS] InEKF, IMU + Velocity Tutorial</a> 
+<br>
+
+### <a href="https://umich-curly.github.io/DRIFT_Website/doxygen/html/md__home_tingjunl_code_curly_state_estimator_doc_tutorial_inekf_imu_and_vel_ros.html">Custom Legged Kinematics Class Tutorial</a> 
+<br>
 
 <!--
 ### Cartesian Dataset
