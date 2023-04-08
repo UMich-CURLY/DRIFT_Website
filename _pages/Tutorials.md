@@ -3,15 +3,13 @@ permalink: /tutorials/
 title: "Tutorials"
 author_profile: true
 ---
+<hr>
 ### <a href="https://umich-curly.github.io/DRIFT_Website/doxygen/html/md__home_tingjunl_code_curly_state_estimator_doc_tutorial_inekf_imu_and_vel_ros.html" target="_blank">Getting Started</a> 
 <hr>
-
 ### <a href="https://umich-curly.github.io/DRIFT_Website/doxygen/html/md__home_tingjunl_code_curly_state_estimator_doc_tutorial_inekf_imu_and_legged_kin_ros.html" target="_blank">[ROS] InEKF, IMU + Legged Kinematics Tutorial</a> 
 <hr>
-
 ### <a href="https://umich-curly.github.io/DRIFT_Website/doxygen/html/md__home_tingjunl_code_curly_state_estimator_doc_tutorial_inekf_imu_and_vel_ros.html" target="_blank">[ROS] InEKF, IMU + Velocity Tutorial</a> 
 <hr>
-
 ### <a href="https://umich-curly.github.io/DRIFT_Website/doxygen/html/md__home_tingjunl_code_curly_state_estimator_doc_tutorial_inekf_imu_and_vel_ros.html" target="_blank">Custom Legged Kinematics Class Tutorial</a> 
 <hr>
 
