@@ -4,7 +4,6 @@ title: "Tutorials"
 author_profile: true
 ---
 
-## Installation
 
 <!--
 ### Cartesian Dataset
