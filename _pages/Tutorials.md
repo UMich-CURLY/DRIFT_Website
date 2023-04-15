@@ -7,7 +7,7 @@ author_profile: true
 
 This Getting Started tutorial will help you quickly set up and start using the library, even if you're not familiar with the underlying concepts of Invariant Extended Kalman Filtering (InEKF).
 
-For more detailed information on the DRIFT library, see the [core DRIFT documentation](https://umich-curly.github.io/DRIFT_Website/doxygen/html/index.html).
+For more detailed information on the DRIFT library, see the <a href="https://umich-curly.github.io/DRIFT_Website/doxygen/html/index.html" target="_blank">core DRIFT documentation</a>.
 
 ## Finding Code
 DRIFT Source code is on Github: https://github.com/UMich-CURLY/drift. Issues can also be opened there.
