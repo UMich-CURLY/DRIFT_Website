@@ -1,5 +1,5 @@
 ---
-permalink: /Tutorials/
+permalink: /tutorials/
 title: Getting Started - Learn to use the DRIFT library
 author_profile: true
 ---
