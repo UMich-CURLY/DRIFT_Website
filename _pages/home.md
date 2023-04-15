@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: /sitemap/
 ---
 
-<p style="text-align:center" float="middle"><b style="font-size:15pt">D</b>ead <b style="font-size:15pt">R</b>eckoning for Robotics <b style="font-size:15pt">I</b>n <b style="font-size:15pt">F</b>ield <b style="font-size:15pt">T</b>ime: A Symmetry-Preserving Based Mobile Robot State Estimator Library</p>
+<p style="text-align:center" float="middle"><b style="font-size:15pt">D</b>ead <b style="font-size:15pt">R</b>eckoning for Robotics <b style="font-size:15pt">I</b>n <b style="font-size:15pt">F</b>ield <b style="font-size:15pt">T</b>ime: A Symmetry-Preserving Filter Based Mobile Robot State Estimator Library</p>
 <h1 id="h.uigj53erdbnu" dir="ltr" class="zfr3Q duRjpb CDt4Ke " style="background-color: transparent; border-bottom: none; border-left: none; border-right: none; border-top: none; margin-bottom: 10.0pt; margin-top: 0.0pt; padding-bottom: 0.0pt; padding-left: 0.0pt; padding-right: 0.0pt; padding-top: 0.0pt; text-align: center;"><span class="C9DxTc " style="font-family: Arial; font-size: 12.0pt; font-variant: normal; font-weight: 700; vertical-align: baseline;">Tzu-Yuan Lin &nbsp; &nbsp; &nbsp; Tingjun Li &nbsp; &nbsp; &nbsp; Jonathan Tong &nbsp; &nbsp; &nbsp; Justin Yu &nbsp; &nbsp; &nbsp; Maani Ghaffari</span></h1>
 
 <p dir="ltr" class="zfr3Q CDt4Ke " style="background-color: transparent; border-bottom: none; border-left: none; border-right: none; border-top: none; margin-bottom: 10.0pt; margin-top: 0.0pt; padding-bottom: 0.0pt; padding-left: 0.0pt; padding-right: 0.0pt; padding-top: 0.0pt; text-align: center;"><span class="C9DxTc " style="font-variant: normal;">University of Michigan, Ann Arbor, MI, USA&nbsp;</span></p>
@@ -25,7 +25,7 @@ redirect_from: /sitemap/
     <b>Overview</b>
         <div>
             <p class="small">
-Dead Reckoning for Robotics In Field Time (DRIFT) is an open-source software library designed to provide accurate and reliable state estimation for a variety of grounded mobile robot architectures, including legged and wheeled platforms. Leveraging invariant extended Kalman filtering (inEKF), this modular library empowers roboticists and engineers with a robust and adaptable tool to estimate instantenous local pose and velocity in diverse environments. DRIFT aims to make real-time robot localization easy and accessible, promoting seamless integration across numerous platforms. DRIFT is available with Lightweight Communications and Marshalling (LCM), ROS, and ROS 2 interfaces. Alternatively, library functions are available for linking to support a custom communcation wrapper.
+Dead Reckoning for Robotics In Field Time (DRIFT) is an open-source C++ software library designed to provide accurate and reliable state estimation for a variety of grounded mobile robot architectures, including legged and wheeled platforms. Leveraging invariant extended Kalman filtering (inEKF), this modular library empowers roboticists and engineers with a robust and adaptable tool to estimate instantenous local pose and velocity in diverse environments. DRIFT aims to make real-time robot localization easy and accessible, promoting seamless integration across numerous platforms. DRIFT is available with Lightweight Communications and Marshalling (LCM), ROS, and ROS 2 interfaces. Alternatively, library headers are available for linking to support a custom communcation wrapper.
             </p>
         </div>
     </div>
