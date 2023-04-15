@@ -15,11 +15,6 @@ DRIFT Source code is on Github: <a href="https://github.com/UMich-CURLY/drift" t
 
 This library is designed to provide accurate and reliable state estimation (odometry) for grounded mobile robots, including legged and wheeled platforms. It is built around an advanced probabilistic technique called Invariant Extended Kalman Filtering (InEKF) that estimates the position and velocity of a robot by predicting the robot state and correcting the prediction via available sensor data (IMU, legged robot joint encoders, wheel rotary encoders, etc.). 
 
-## Prerequisites
-
-TODO: List the required software components.
-Provide information on how to install any necessary dependencies. Maybe provide a terminal command(s) to install dependencies easily.
-
 ## Library Overview
 
 There are 6 core components that make up the DRIFT library:
@@ -56,19 +51,14 @@ Below is DRIFT's flow structure of data input and robot state information output
 
 <div align="center"><img src="{{ site.url }}/DRIFT_Website/images/flowdiagram.png" alt= flow style="max-width:85%;height:auto"></div>
 
-TODO: Break down the process of using the library into smaller, manageable steps. For each step, provide clear instructions and code snippets, if applicable.
+## Core DRIFT Tutorials
 
-Steps can include:
-a. Initializing the library
-b. Configuring robot-specific settings (e.g., kinematics for legged robots)
-c. Creating Measurement objects (e.g., ImuMeasurement, ContactMeasurement)
-d. Sending measurements to the Filter Interface (StateEstimator)
-e. Accessing the estimated Robot State
-f. Integrating the library with your specific robot system
+1. Installing and Configuring DRIFT
+This tutorial walks you through installation and setup of DRIFT.
 
-Be sure to include explanations and context for each step, so users understand the purpose behind the actions they are taking.
 
-## Examples and use cases
+
+## Examples
 
 Provide examples or use cases to demonstrate the library's functionality in real-world scenarios.
 
@@ -85,11 +75,6 @@ This section can be updated over time as you receive user feedback and questions
 ## Further reading and resources
 
 TODO: Provide links to relevant documentation, papers, or other resources for users who want to learn more about InEKF or dive deeper into the library's capabilities.
-
-## Conclusion
-
-TODO: Recap the key points covered in the tutorial.
-Encourage users to provide feedback or ask questions to improve the library and its documentation.
 
 <hr>
 ### <a href="https://umich-curly.github.io/DRIFT_Website/doxygen/html/md__home_tingjunl_code_curly_state_estimator_doc_tutorial_inekf_imu_and_legged_kin_ros.html" target="_blank">[ROS] InEKF, IMU + Legged Kinematics Tutorial</a> 
