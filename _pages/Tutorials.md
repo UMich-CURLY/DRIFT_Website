@@ -1,9 +1,8 @@
 ---
 permalink: /tutorials/
+title: Getting Started - Learn to use the DRIFT library
 author_profile: true
 ---
-
-# Getting Started/Learn to use the DRIFT library
 
 This Getting Started tutorial will help you quickly set up and start using the library, even if you're not familiar with the underlying concepts of Invariant Extended Kalman Filtering (InEKF).
 
