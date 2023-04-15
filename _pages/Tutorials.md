@@ -11,10 +11,6 @@ For more detailed information on the DRIFT library, see the <a href="https://umi
 ## Finding Code
 DRIFT Source code is on Github: <a href="https://github.com/UMich-CURLY/drift" target="_blank">https://github.com/UMich-CURLY/drift</a>. Issues can also be opened there.
 
-## Introduction
-
-This library is designed to provide accurate and reliable state estimation (odometry) for grounded mobile robots, including legged and wheeled platforms. It is built around an advanced probabilistic technique called Invariant Extended Kalman Filtering (InEKF) that estimates the position and velocity of a robot by predicting the robot state and correcting the prediction via available sensor data (IMU, legged robot joint encoders, wheel rotary encoders, etc.). 
-
 ## Library Overview
 
 There are 6 core components that make up the DRIFT library:
