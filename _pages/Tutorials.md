@@ -48,6 +48,7 @@ There are 6 core components that make up the DRIFT library:
 
 <div align="center"><img src="{{ site.url }}/DRIFT_Website/images/comm.png" alt= comm style="max-width:85%;height:auto"></div>
 
+<br>
 
 Below is DRIFT's flow structure of data input and robot state information output.
 
