@@ -70,8 +70,9 @@ Dead Reckoning for Robotics In Field Time (DRIFT) is an open-source software lib
 </div>
 
 <div class="page__content">
-    <b>Getting started</b>
+    <b>Getting Started</b>
     <p class="small">
+        Head to our Getting Started<a href="https://umich-curly.github.io/DRIFT_Website/tutorials/" target="_blank">Getting Started</a> tutorial page.
         Code for this project can be found in the <a href="https://github.com/UMich-CURLY/curly_state_estimator"> Github</a> repository.
     </p>
 </div>  
