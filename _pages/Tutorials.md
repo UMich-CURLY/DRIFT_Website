@@ -25,7 +25,7 @@ Provide information on how to install any necessary dependencies. Maybe provide 
 There are 6 core components that make up the DRIFT library:
 <br>
 <br>
-1) **Measurements**: The Measurements component includes classes to represent different types of sensor data relevant for state estimation. The primary class, Measurement, serves as a base class for specific measurement types, such as ImuMeasurement (for IMU readings) and ContactMeasurement (for legged robot foot contact states). These classes store time-sequential sensor data in a queue, ready to be processed by the filter.
+1) **Measurements**: The Measurements component includes classes to represent different types of sensor data relevant for state estimation. The primary class, Measurement, serves as a base class for specific measurement types, such as ImuMeasurement (for IMU readings) and ContactMeasurement (for legged robot foot contact states). These classes primarily serve as data structures to store time-sequential sensor data in a queue, ready to be processed by the filter. 
 
 <div align="center"><img src="{{ site.url }}/DRIFT_Website/images/measurement.png" alt= measurement style="max-width:30%;height:auto"></div>
 
