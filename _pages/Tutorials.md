@@ -10,7 +10,7 @@ This Getting Started tutorial will help you quickly set up and start using the l
 For more detailed information on the DRIFT library, see the <a href="https://umich-curly.github.io/DRIFT_Website/doxygen/html/index.html" target="_blank">core DRIFT documentation</a>.
 
 ## Finding Code
-DRIFT Source code is on Github: https://github.com/UMich-CURLY/drift. Issues can also be opened there.
+DRIFT Source code is on Github: <a href="https://github.com/UMich-CURLY/drift" target="_blank">https://github.com/UMich-CURLY/drift</a>. Issues can also be opened there.
 
 ## Introduction
 
