@@ -49,7 +49,7 @@ Below is DRIFT's flow structure of data input and robot state information output
 
 ## Core DRIFT Tutorials
 
-1. Installing and Configuring DRIFT
+1. Installing and Configuring DRIFT<br>
 This tutorial walks you through installation and setup of DRIFT.
 
 
