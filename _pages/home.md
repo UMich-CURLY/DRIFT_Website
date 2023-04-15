@@ -54,9 +54,9 @@ Dead Reckoning for Robotics In Field Time (DRIFT) is an open-source software lib
                 </p>-->
             </div>
             <div>
-                Unitree Go1
+                Fetch
                 <p>
-                    <a href="https://shop.unitree.com/products/unitreeyushutechnologydog-artificial-intelligence-companion-bionic-companion-intelligent-robot-go1-quadruped-robot-dog"><img src="./images/unitreego1.jpeg" alt="UnitreeGo1" style="border-radius:10px"></a>
+                    <a href="https://fetchrobotics.com/"><img src="./images/fetch.jpeg" alt="fetch" style="border-radius:10px"></a>
                 </p>
                 <!--<p>
                     The Unitree Go1 is a quadruped robot designed and manufactured by Unitree Robotics.
@@ -72,7 +72,7 @@ Dead Reckoning for Robotics In Field Time (DRIFT) is an open-source software lib
 <div class="page__content">
     <b>Getting Started</b>
     <p class="small">
-        Head to our Getting Started<a href="https://umich-curly.github.io/DRIFT_Website/tutorials/" target="_blank">Getting Started</a> tutorial page.
+        Head to our <a href="https://umich-curly.github.io/DRIFT_Website/tutorials/" target="_blank">Getting Started</a> tutorial page.
         Code for this project can be found in the <a href="https://github.com/UMich-CURLY/curly_state_estimator"> Github</a> repository.
     </p>
 </div>  
