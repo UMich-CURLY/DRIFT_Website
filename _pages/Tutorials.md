@@ -6,7 +6,7 @@ author_profile: true
 
 This Getting Started tutorial will help you quickly set up and start using the library, even if you're not familiar with the underlying concepts of Invariant Extended Kalman Filtering (InEKF).
 
-For more detailed information on the DRIFT library, see the <a href="https://umich-curly.github.io/DRIFT_Website/doxygen/html/index.html" target="_blank">core DRIFT documentation</a>.
+For more detailed information on the DRIFT library code, see the <a href="https://umich-curly.github.io/DRIFT_Website/doxygen/html/index.html" target="_blank">core DRIFT documentation</a>.
 
 ## Finding Code
 DRIFT Source code is on Github: <a href="https://github.com/UMich-CURLY/drift" target="_blank">https://github.com/UMich-CURLY/drift</a>. Issues can also be opened there.
@@ -33,7 +33,7 @@ There are 6 core components that make up the DRIFT library:
 
 <div align="center"><img src="{{ site.url }}/DRIFT_Website/images/robotstate.png" alt= rstate style="max-width:20%;height:auto"></div>
 
-5) **Robot Kinematics Interface**: This component is only necessary for legged robots and stores the kinematic definition of a particular robot, such as a quadrupedal configuration. The Robot Kinematics Interface is responsible for computing the body-frame position, which is combined with foot contact information and used in the Kalman filter's correction step. 
+5) **Robot Kinematics Interface**: This component is only necessary for legged robots and stores the kinematic definition of a particular robot, such as a quadrupedal configuration. The Robot Kinematics Interface is responsible for computing the body-frame position, which is combined with foot contact information and used in the Kalman filter's correction step. DRIFT provides example implementations for the MIT MiniCheetah and Unitree Go1 quadrupedal platforms
 
 <div align="center"><img src="{{ site.url }}/DRIFT_Website/images/kin.png" alt= kin style="max-width:85%;height:auto"></div>
 
