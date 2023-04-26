@@ -37,7 +37,7 @@ There are 6 core components that make up the DRIFT library:
 
 <div align="center"><img src="{{ site.url }}/DRIFT_Website/images/kin.png" alt= kin style="max-width:85%;height:auto"></div>
 
-6) **Communication Interface**: The Communication Interface serves as the outermost wrapper, managing communication between the library and external sources or sinks. This component ensures that the library can easily receive measurement data streams and transmit the updated state estimates for use elsewhere in real-time. As a standalone library, DRIFT can be directly included in your project for implementing a custom communication method (over UDP for example). Additionally, we provide ROS interfaces for easy access. In the future, we plan to expand support for both Lightweight Communications and Marshalling (LCM) and ROS 2.
+6) **Communication Interface**: The Communication Interface serves as the outermost wrapper, managing communication between the library and external sources or sinks. This component ensures that the library can easily receive measurement data streams and transmit the updated state estimates for use elsewhere in real-time. As a standalone library, DRIFT can be directly included in your project for implementing a custom communication method (over UDP for example). Additionally, we provide ROS interfaces for easy access. In the future, we plan to expand support for both Lightweight Communications and Marshalling (LCM) and ROS 2 interfaces.
 
 <div align="center"><img src="{{ site.url }}/DRIFT_Website/images/comm.png" alt= comm style="max-width:85%;height:auto"></div>
 
