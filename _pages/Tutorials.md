@@ -20,11 +20,11 @@ There are 6 core components that make up the DRIFT library:
 
 <div align="center"><img src="{{ site.url }}/DRIFT_Website/images/measurement.png" alt= measurement style="max-width:30%;height:auto"></div>
 
-2) **Filter**: The Filter component is the core of the library, where the Invariant Extended Kalman Filter (InEKF) algorithm is implemented. This component takes the robot's current state and incoming measurements to predict and correct the estimates of the robot's position, orientation, and velocity. 
+2) **Filter**: The Filter component is the core of the library, where different filtering algorithms are be implemented. For now we provide Invariant Extended Kalman Filter (InEKF). In the future, we plan to introduce different filters to DRIFT. This component takes the robot's current state and incoming measurements to predict and correct the estimates of the robot's position, orientation, and velocity. 
 
 <div align="center"><img src="{{ site.url }}/DRIFT_Website/images/filter.png" alt= filter style="max-width:85%;height:auto"></div>
 
-3) **Filter Interface**: The Filter Interface is designed to simplify the integration of the InEKF into your project. It provides an abstraction layer between users and the underlying filter implementation, making it easier to use the library without in-depth knowledge of InEKF. The main class in this component is the StateEstimator, which offers methods for adding propagation and correction steps based on the available incoming sensor data.
+3) **Filter Interface**: The Filter Interface is designed to simplify the integration of the filter into your project. It provides an abstraction layer between users and the underlying filter implementation, making it easier to use the library without in-depth knowledge of the filter. 
 
 <div align="center">
 <img src="{{ site.url }}/DRIFT_Website/images/filterinterface.png" alt= filterinterface style="max-width:25%;height:auto"></div>
@@ -37,7 +37,7 @@ There are 6 core components that make up the DRIFT library:
 
 <div align="center"><img src="{{ site.url }}/DRIFT_Website/images/kin.png" alt= kin style="max-width:85%;height:auto"></div>
 
-6) **Communication Interface**: The Communication Interface serves as the outermost wrapper, managing communication between the library and external sources or sinks. This component ensures that the library can easily receive measurement data streams and transmit the updated state estimates for use elsewhere in real-time. For DRIFT, we have provided interface wrappers for ROS, ROS 2, and Lightweight Communications Marshalling (LCM). Alternatively, the library headers are made available for implementing a custom communication method (over UDP for example).
+6) **Communication Interface**: The Communication Interface serves as the outermost wrapper, managing communication between the library and external sources or sinks. This component ensures that the library can easily receive measurement data streams and transmit the updated state estimates for use elsewhere in real-time. As a standalone library, DRIFT can be directly included in your project for implementing a custom communication method (over UDP for example). Additionally, we provide ROS interfaces for easy access. In the future, we plan to expand support for both Lightweight Communications and Marshalling (LCM) and ROS 2.
 
 <div align="center"><img src="{{ site.url }}/DRIFT_Website/images/comm.png" alt= comm style="max-width:85%;height:auto"></div>
 
