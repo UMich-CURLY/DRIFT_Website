@@ -114,7 +114,7 @@ As a header-only library, DRIFT aims to make real-time robot localization easy a
     <b>Citation</b><br>
 <p class="small">
         If you use this work or find it helpful, please consider citing: (bibtex)
-<br><br>Tzu-Yuan Lin, Ray Zhang, Justin Yu, and Maani Ghaffari. "Legged Robot State Estimation using Invariant Kalman Filtering and Learned Contact Events." In Conference on robot learning. PMLR, 2021<br>
+<br><br>Tzu-Yuan Lin, Ray Zhang, Justin Yu, and Maani Ghaffari. "Legged Robot State Estimation using Invariant Kalman Filtering and Learned Contact Events." In Conference on Robot Learning. PMLR, 2021<br>
     </p>
 <pre>
   <code>
