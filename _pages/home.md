@@ -25,7 +25,7 @@ redirect_from: /sitemap/
     <b>Overview</b>
         <div>
             <p class="small">
-Dead Reckoning for Robotics In Field Time (DRIFT) is an open-source C++ software library designed to provide accurate and high-frequency state estimation for a variety of grounded mobile robot architectures, including legged and wheeled platforms. Leveraging invariant extended Kalman filtering (inEKF), this modular library empowers roboticists and engineers with a robust and adaptable tool to estimate instantaneous local pose and velocity in diverse environments. The software is structured in a modular fashion, allowing users to define their own sensor type and/or propagation and correction method, thereby offering a high degree of customization.
+Dead Reckoning for Robotics In Field Time (DRIFT) is an open-source C++ software library designed to provide accurate and high-frequency state estimation for a variety of grounded mobile robot architectures, including legged and wheeled platforms. Leveraging symmetry-preserving filters such as invariant extended Kalman filtering (inEKF), this modular library empowers roboticists and engineers with a robust and adaptable tool to estimate instantaneous local pose and velocity in diverse environments. The software is structured in a modular fashion, allowing users to define their own sensor type and/or propagation and correction method, offering a high degree of customization.
 
 <br>
 <br>
@@ -83,7 +83,7 @@ DRIFT aims to make real-time robot localization easy and accessible, promoting s
     </div>
 
 </div>
-
+<br>
 <div class="page__content">
     <b>Getting Started</b>
     <p class="small">
@@ -112,17 +112,20 @@ DRIFT aims to make real-time robot localization easy and accessible, promoting s
 
 <div class="page__content">
     <b>Citation</b><br>
-If you use this work or find it helpful, please consider citing: (bibtex)
+<p class="small">
+        If you use this work or find it helpful, please consider citing: (bibtex)
 <br><br>Tzu-Yuan Lin, Ray Zhang, Justin Yu, and Maani Ghaffari. "Legged Robot State Estimation using Invariant Kalman Filtering and Learned Contact Events." In Conference on robot learning. PMLR, 2021<br>
+    </p>
+<pre>
+  <code>
+    @inproceedings{
+       lin2021legged,
+       title={Legged Robot State Estimation using Invariant Kalman Filtering and Learned Contact Events},
+       author={Tzu-Yuan Lin and Ray Zhang and Justin Yu and Maani Ghaffari},
+       booktitle={5th Annual Conference on Robot Learning },
+       year={2021},
+       url={https://openreview.net/forum?id=yt3tDB67lc5}
+    }
+  </code>
+</pre>
 </div>  
-
-```
-@inproceedings{
-   lin2021legged,
-   title={Legged Robot State Estimation using Invariant Kalman Filtering and Learned Contact Events},
-   author={Tzu-Yuan Lin and Ray Zhang and Justin Yu and Maani Ghaffari},
-   booktitle={5th Annual Conference on Robot Learning },
-   year={2021},
-   url={https://openreview.net/forum?id=yt3tDB67lc5}
-}
-```
