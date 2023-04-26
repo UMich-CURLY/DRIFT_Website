@@ -25,7 +25,7 @@ redirect_from: /sitemap/
     <b>Overview</b>
         <div>
             <p class="small">
-Dead Reckoning for Robotics In Field Time (DRIFT) is an open-source C++ software library designed to provide accurate and high-frequency state estimation for a variety of grounded mobile robot architectures, including legged and wheeled platforms. Leveraging symmetry-preserving filters such as invariant extended Kalman filtering (inEKF), this modular library empowers roboticists and engineers with a robust and adaptable tool to estimate instantaneous local pose and velocity in diverse environments. The software is structured in a modular fashion, allowing users to define their own sensor type and/or propagation and correction method, offering a high degree of customization.
+Dead Reckoning for Robotics In Field Time (DRIFT) is an open-source C++ software library designed to provide accurate and high-frequency state estimation for a variety of grounded mobile robot architectures, including legged and wheeled platforms. Leveraging symmetry-preserving filters such as Invariant extended Kalman filtering (InEKF), this modular library empowers roboticists and engineers with a robust and adaptable tool to estimate instantaneous local pose and velocity in diverse environments. The software is structured in a modular fashion, allowing users to define their own sensor type and/or propagation and correction method, offering a high degree of customization.
 
 <br>
 <br>

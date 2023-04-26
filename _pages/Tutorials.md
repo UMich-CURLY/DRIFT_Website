@@ -20,7 +20,7 @@ There are 6 core components that make up the DRIFT library:
 
 <div align="center"><img src="{{ site.url }}/DRIFT_Website/images/measurement.png" alt= measurement style="max-width:30%;height:auto"></div>
 
-2) **Filter**: The Filter component is the core of the library, where different filtering algorithms are be implemented. For now we provide Invariant Extended Kalman Filter (InEKF). In the future, we plan to introduce different filters to DRIFT. This component takes the robot's current state and incoming measurements to predict and correct the estimates of the robot's position, orientation, and velocity. 
+2) **Filter**: The Filter component is the core of the library, where different filtering algorithms are be implemented. For now we provide implementation for the Invariant Extended Kalman Filter (InEKF). In the future, we plan to introduce different filters to DRIFT. This component takes the robot's current state and incoming measurements to predict and correct the estimates of the robot's position, orientation, and velocity. 
 
 <div align="center"><img src="{{ site.url }}/DRIFT_Website/images/filter.png" alt= filter style="max-width:85%;height:auto"></div>
 
@@ -33,7 +33,7 @@ There are 6 core components that make up the DRIFT library:
 
 <div align="center"><img src="{{ site.url }}/DRIFT_Website/images/robotstate.png" alt= rstate style="max-width:20%;height:auto"></div>
 
-5) **Robot Kinematics Interface**: This component is only necessary for legged robots and stores the kinematic definition of a particular robot, such as a quadrupedal configuration. The Robot Kinematics Interface is responsible for computing the body-frame position, which is combined with foot contact information and used in the Kalman filter's correction step. DRIFT provides example implementations for the MIT MiniCheetah and Unitree Go1 quadrupedal platforms
+5) **Robot Kinematics Interface**: This component is only necessary for legged robots and stores the kinematic definition of a particular robot, such as a quadrupedal configuration. The Robot Kinematics Interface is responsible for computing the body-frame position, which is combined with foot contact information and used in the filter's correction step. DRIFT provides example implementations for the MIT MiniCheetah and Unitree Go1 quadrupedal platforms
 
 <div align="center"><img src="{{ site.url }}/DRIFT_Website/images/kin.png" alt= kin style="max-width:85%;height:auto"></div>
 
