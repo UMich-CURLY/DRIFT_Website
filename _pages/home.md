@@ -30,7 +30,7 @@ Dead Reckoning for Robotics In Field Time (DRIFT) is an open-source C++ software
 <br>
 <br>
 
-DRIFT aims to make real-time robot localization easy and accessible, promoting seamless integration across numerous platforms. As a standalone library, DRIFT can be directly included in your project by using find_package(drift). Additionally, we provide ROS interfaces for easy access. In the future, we plan to expand support for both Lightweight Communications and Marshalling (LCM) and ROS 2.
+As a header-only library, DRIFT aims to make real-time robot localization easy and accessible, promoting seamless integration across numerous platforms. Additionally, we provide support for ROS middleware interface. In the future, we plan to expand support for both Lightweight Communications and Marshalling (LCM) and ROS 2.
             </p>
             <div align="center"><img src="./images/hi-lvl-flow.png" alt="HighLevelFlow" style="max-width:60%;height:auto"></div>
         </div>
