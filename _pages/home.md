@@ -44,7 +44,7 @@ DRIFT aims to make real-time robot localization easy and accessible, promoting s
             <div>
                 Husky
                 <p>
-                   <a href="https://clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/"><img src="./images/husky.jpeg" alt="Husky" style="border-radius:10px"></a>
+                   <a href="https://clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/" target="_blank"><img src="./images/husky.jpeg" alt="Husky" style="border-radius:10px"></a>
                 </p>
                 <!--<p>
                     The Husky robot is a wheeled mobile robot platform designed and manufactured by Clearpath Robotics, a Canadian robotics company.
@@ -53,7 +53,7 @@ DRIFT aims to make real-time robot localization easy and accessible, promoting s
             <div>
                 MIT MiniCheetah
                 <p>
-                    <a href="https://www.naverlabs.com/mini-cheetah"><img src="./images/minicheetah.jpg" alt="MITMiniCheetah" style="border-radius:10px"></a>
+                    <a href="https://www.naverlabs.com/mini-cheetah" target="_blank"><img src="./images/minicheetah.jpg" alt="MITMiniCheetah" style="border-radius:10px"></a>
                 </p>
                 <!--<p>
                     The MIT MiniCheetah is a quadrupedal robot designed and developed by the Massachusetts Institute of Technology's Biomimetic Robotics Laboratory.
@@ -62,7 +62,7 @@ DRIFT aims to make real-time robot localization easy and accessible, promoting s
             <div>
                 Fetch
                 <p>
-                    <a href="https://fetchrobotics.com/"><img src="./images/fetch.jpeg" alt="fetch" style="border-radius:10px"></a>
+                    <a href="https://fetchrobotics.com/" target="_blank"><img src="./images/fetch.jpeg" alt="fetch" style="border-radius:10px"></a>
                 </p>
                 <!--<p>
                     The Unitree Go1 is a quadruped robot designed and manufactured by Unitree Robotics.
@@ -71,7 +71,7 @@ DRIFT aims to make real-time robot localization easy and accessible, promoting s
             <div>
                 Cassie Blue
                 <p>
-                    <a href="https://news.engin.umich.edu/2017/09/latest-two-legged-walking-robot-arrives-at-michigan/"><img src="./images/cassieblue.png" alt="cassieblue" style="border-radius:10px"></a>
+                    <a href="https://news.engin.umich.edu/2017/09/latest-two-legged-walking-robot-arrives-at-michigan/" target="_blank"><img src="./images/cassieblue.png" alt="cassieblue" style="border-radius:10px"></a>
                 </p>
                 <!--<p>
                     The Unitree Go1 is a quadruped robot designed and manufactured by Unitree Robotics.
