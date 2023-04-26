@@ -25,7 +25,11 @@ redirect_from: /sitemap/
     <b>Overview</b>
         <div>
             <p class="small">
-Dead Reckoning for Robotics In Field Time (DRIFT) is an open-source C++ software library designed to provide accurate and reliable state estimation for a variety of grounded mobile robot architectures, including legged and wheeled platforms. Leveraging invariant extended Kalman filtering (inEKF), this modular library empowers roboticists and engineers with a robust and adaptable tool to estimate instantenous local pose and velocity in diverse environments. DRIFT aims to make real-time robot localization easy and accessible, promoting seamless integration across numerous platforms. DRIFT is available with Lightweight Communications and Marshalling (LCM), ROS, and ROS 2 interfaces. Alternatively, library headers are available for linking to support a custom communcation wrapper.
+Dead Reckoning for Robotics In Field Time (DRIFT) is an open-source C++ software library designed to provide accurate and high-frequency state estimation for a variety of grounded mobile robot architectures, including legged and wheeled platforms. Leveraging invariant extended Kalman filtering (inEKF), this modular library empowers roboticists and engineers with a robust and adaptable tool to estimate instantaneous local pose and velocity in diverse environments. The software is structured in a modular fashion, allowing users to define their own sensor type and/or propagation and correction method, thereby offering a high degree of customization.
+
+<br>
+
+DRIFT aims to make real-time robot localization easy and accessible, promoting seamless integration across numerous platforms. As a standalone library, DRIFT can be directly included in your project by using find_package(drift). Additionally, we provide ROS interfaces for easy access. In the future, we plan to expand support for both Lightweight Communications and Marshalling (LCM) and ROS 2.
             </p>
             <div align="center"><img src="./images/hi-lvl-flow.png" alt="HighLevelFlow" style="max-width:60%;height:auto"></div>
         </div>
@@ -58,6 +62,15 @@ Dead Reckoning for Robotics In Field Time (DRIFT) is an open-source C++ software
                 Fetch
                 <p>
                     <a href="https://fetchrobotics.com/"><img src="./images/fetch.jpeg" alt="fetch" style="border-radius:10px"></a>
+                </p>
+                <!--<p>
+                    The Unitree Go1 is a quadruped robot designed and manufactured by Unitree Robotics.
+                </p>-->
+            </div>
+            <div>
+                Cassie Blue
+                <p>
+                    <a href="https://news.engin.umich.edu/2017/09/latest-two-legged-walking-robot-arrives-at-michigan/"><img src="./images/cassieblue.png" alt="cassieblue" style="border-radius:10px"></a>
                 </p>
                 <!--<p>
                     The Unitree Go1 is a quadruped robot designed and manufactured by Unitree Robotics.
