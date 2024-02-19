@@ -1,9 +1,0 @@
-<map id="Measurement" name="Measurement">
-<area shape="rect" id="node1" title="class for robot&#45;state instantaneous measurement. contact state." alt="" coords="5,104,117,129"/>
-<area shape="rect" id="node2" href="$classContactMeasurement.html" title="measurement class containing robot&#45;ground contact state." alt="" coords="200,5,363,31"/>
-<area shape="rect" id="node3" href="$classImuMeasurement.html" title="measurement class containing intertial measurement unit estimated parameters." alt="" coords="194,55,369,80"/>
-<area shape="rect" id="node4" href="$classJointStateMeasurement.html" title="measurement class containing joint actuator measurements (encoder position, actuator angular velocity..." alt="" coords="175,104,388,129"/>
-<area shape="rect" id="node5" href="$classLeggedKinematicsMeasurement.html" title="Derived measurement class containing information about body&#45;to&#45;foot kinematics." alt="" coords="165,153,397,179"/>
-<area shape="rect" id="node7" href="$classVelocityMeasurement.html" title="measurement class containing robot&#45;frame velocity information." alt="" coords="180,203,383,228"/>
-<area shape="rect" id="node6" href="$classMiniCheetahKinematics.html" title="Mini Cheetah specific kinematics solver and measurement container." alt="" coords="445,153,623,179"/>
-</map>

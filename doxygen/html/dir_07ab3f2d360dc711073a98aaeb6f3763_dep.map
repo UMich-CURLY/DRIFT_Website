@@ -1,8 +1,0 @@
-<map id="/home/tingjunl/code/curly_state_estimator/include/filter/inekf/correction" name="/home/tingjunl/code/curly_state_estimator/include/filter/inekf/correction">
-<area shape="rect" id="node1" href="dir_07ab3f2d360dc711073a98aaeb6f3763.html" title="correction" alt="" coords="73,52,160,77"/>
-<area shape="rect" id="node2" href="dir_68bd1ec69a6d1b39df65146a5a9812c4.html" title="measurement" alt="" coords="5,125,119,151"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000002_000021.html" title="2" alt="" coords="84,109,93,123"/>
-<area shape="rect" id="node3" href="dir_fba38f648377aa56ae5d69782adf9e53.html" title="math" alt="" coords="143,125,199,151"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000002_000019.html" title="2" alt="" coords="153,98,163,113"/>
-<area shape="rect" id="clust1" href="dir_f1fa3154f4259946a2bb06a01f7ea4ba.html" title="inekf" alt="" coords="62,16,171,88"/>
-</map>

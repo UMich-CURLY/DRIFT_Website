@@ -1,5 +1,0 @@
-<map id="LeggedKinematicsMeasurement" name="LeggedKinematicsMeasurement">
-<area shape="rect" id="node1" title="Derived measurement class containing information about body&#45;to&#45;foot kinematics." alt="" coords="5,79,237,104"/>
-<area shape="rect" id="node3" href="$classMiniCheetahKinematics.html" title="Mini Cheetah specific kinematics solver and measurement container." alt="" coords="33,152,210,177"/>
-<area shape="rect" id="node2" href="$classMeasurement.html" title="class for robot&#45;state instantaneous measurement. contact state." alt="" coords="65,5,177,31"/>
-</map>

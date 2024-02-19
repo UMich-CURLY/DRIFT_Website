@@ -1,4 +1,0 @@
-<map id="ContactMeasurement" name="ContactMeasurement">
-<area shape="rect" id="node1" title="measurement class containing robot&#45;ground contact state." alt="" coords="5,79,168,104"/>
-<area shape="rect" id="node2" href="$classMeasurement.html" title="class for robot&#45;state instantaneous measurement. contact state." alt="" coords="31,5,143,31"/>
-</map>

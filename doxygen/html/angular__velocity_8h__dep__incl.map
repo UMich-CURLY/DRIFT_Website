@@ -1,0 +1,32 @@
+<map id="/home/justin/code/drift/include/drift/measurement/angular_velocity.h" name="/home/justin/code/drift/include/drift/measurement/angular_velocity.h">
+<area shape="rect" id="node1" title="Header file for robot velocity estimate." alt="" coords="1844,5,2043,61"/>
+<area shape="rect" id="node2" href="$inekf__estimator_8h.html" title="Header file for state estimator class." alt="" coords="1311,421,1482,477"/>
+<area shape="rect" id="node16" href="$imu__ang__vel__ekf_8h.html" title=" " alt="" coords="2031,310,2202,366"/>
+<area shape="rect" id="node18" href="$type__def_8h.html" title=" " alt="" coords="1394,109,1602,151"/>
+<area shape="rect" id="node3" href="$inekf__estimator_8cpp.html" title="Source file for InEKF estimator class." alt="" coords="1273,533,1520,574"/>
+<area shape="rect" id="node4" href="$ros__subscriber_8h.html" title=" " alt="" coords="959,525,1199,581"/>
+<area shape="rect" id="node6" href="$fetch_8cpp.html" title="Test file for Fetch robot (IMU Propagation + Velocity Correction)" alt="" coords="1129,637,1345,678"/>
+<area shape="rect" id="node7" href="$fetch__gyro__filter_8cpp.html" title=" " alt="" coords="2553,629,2742,685"/>
+<area shape="rect" id="node8" href="$girona500_8cpp.html" title=" " alt="" coords="1369,637,1617,678"/>
+<area shape="rect" id="node9" href="$husky_8cpp.html" title="Example file for underwater vehicle Girona500 (IMU Propagation + Velocity Correction)" alt="" coords="1641,637,1859,678"/>
+<area shape="rect" id="node10" href="$husky__double__imu__filter_8cpp.html" title=" " alt="" coords="2121,629,2315,685"/>
+<area shape="rect" id="node11" href="$husky__gyro__filter_8cpp.html" title=" " alt="" coords="242,629,437,685"/>
+<area shape="rect" id="node12" href="$husky__odom_8cpp.html" title=" " alt="" coords="461,629,655,685"/>
+<area shape="rect" id="node13" href="$mini__cheetah_8cpp.html" title="Test file for Mini&#45;Cheetah robot (IMU propagation + Legged Kinematics Correction)" alt="" coords="680,629,865,685"/>
+<area shape="rect" id="node14" href="$neya_8cpp.html" title=" " alt="" coords="889,637,1104,678"/>
+<area shape="rect" id="node15" href="$neya__gyro__filter_8cpp.html" title=" " alt="" coords="2340,629,2528,685"/>
+<area shape="rect" id="node5" href="$ros__subscriber_8cpp.html" title=" " alt="" coords="5,629,217,685"/>
+<area shape="rect" id="node17" href="$imu__ang__vel__ekf_8cpp.html" title=" " alt="" coords="2031,421,2203,477"/>
+<area shape="rect" id="node19" href="$base__correction_8h.html" title="Header file for base correction method." alt="" coords="1116,199,1285,255"/>
+<area shape="rect" id="node21" href="$legged__kinematics__correction_8h.html" title="Header file for Invariant EKF kinematic correction method." alt="" coords="675,303,860,373"/>
+<area shape="rect" id="node23" href="$velocity__correction_8h.html" title="Header file for Invariant EKF velocity correction method." alt="" coords="885,303,1069,373"/>
+<area shape="rect" id="node25" href="$base__propagation_8h.html" title="Header file for base propagation method." alt="" coords="1513,199,1683,255"/>
+<area shape="rect" id="node27" href="$imu__propagation_8h.html" title="Header file for Invariant EKF imu propagation method Part of the code is modified from Ross Hartley&#39;s..." alt="" coords="1735,303,1906,373"/>
+<area shape="rect" id="node29" href="$ros__publisher_8h.html" title="Header file for ROS publisher class." alt="" coords="1594,525,1834,581"/>
+<area shape="rect" id="node20" href="$base__correction_8cpp.html" title="Source file for base correction method." alt="" coords="1093,317,1308,359"/>
+<area shape="rect" id="node22" href="$legged__kinematics__correction_8cpp.html" title=" " alt="" coords="659,421,907,477"/>
+<area shape="rect" id="node24" href="$velocity__correction_8cpp.html" title="Source file for Invariant EKF velocity correction method." alt="" coords="931,421,1118,477"/>
+<area shape="rect" id="node26" href="$base__propagation_8cpp.html" title="Source file for base propagation method." alt="" coords="1485,317,1711,359"/>
+<area shape="rect" id="node28" href="$imu__propagation_8cpp.html" title="Source file for Invariant EKF imu propagation method Part of the code is modified from Ross Hartley&#39;s..." alt="" coords="1721,421,1920,477"/>
+<area shape="rect" id="node30" href="$ros__publisher_8cpp.html" title="Source file for ROS publisher class." alt="" coords="1884,629,2096,685"/>
+</map>

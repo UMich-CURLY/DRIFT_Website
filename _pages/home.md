@@ -1,22 +1,23 @@
 ---
 permalink: /
 title: "DRIFT"
-excerpt: "Dead Reckoning for Robotics in Field Time"
+excerpt: "Dead Reckoning in Field Time"
 author_profile: true
 redirect_from: /sitemap/
 ---
 
-<p style="text-align:center" float="middle"><b style="font-size:15pt">D</b>ead <b style="font-size:15pt">R</b>eckoning for Robotics <b style="font-size:15pt">I</b>n <b style="font-size:15pt">F</b>ield <b style="font-size:15pt">T</b>ime: A Symmetry-Preserving Filter Based Mobile Robot State Estimator Library</p>
+<p style="text-align:center" float="middle"><b style="font-size:15pt">D</b>ead <b style="font-size:15pt">R</b>eckoning <b style="font-size:15pt">I</b>n <b style="font-size:15pt">F</b>ield <b style="font-size:15pt">T</b>ime: A Symmetry-Preserving Filter Based Mobile Robot State Estimator Library</p>
 <h1 id="h.uigj53erdbnu" dir="ltr" class="zfr3Q duRjpb CDt4Ke " style="background-color: transparent; border-bottom: none; border-left: none; border-right: none; border-top: none; margin-bottom: 10.0pt; margin-top: 0.0pt; padding-bottom: 0.0pt; padding-left: 0.0pt; padding-right: 0.0pt; padding-top: 0.0pt; text-align: center;"><span class="C9DxTc " style="font-family: Arial; font-size: 12.0pt; font-variant: normal; font-weight: 700; vertical-align: baseline;">Tzu-Yuan Lin &nbsp; &nbsp; &nbsp; Tingjun Li &nbsp; &nbsp; &nbsp; Jonathan Tong &nbsp; &nbsp; &nbsp; Justin Yu &nbsp; &nbsp; &nbsp; Maani Ghaffari</span></h1>
 
 <p dir="ltr" class="zfr3Q CDt4Ke " style="background-color: transparent; border-bottom: none; border-left: none; border-right: none; border-top: none; margin-bottom: 10.0pt; margin-top: 0.0pt; padding-bottom: 0.0pt; padding-left: 0.0pt; padding-right: 0.0pt; padding-top: 0.0pt; text-align: center;"><span class="C9DxTc " style="font-variant: normal;">University of Michigan, Ann Arbor, MI, USA&nbsp;</span></p>
 
 <p float="middle">
 <div>
-    <video style="border-radius:15px" controls muted autoplay="autoplay" src="./images/placeholder.mp4" controls="controls" width="100%" />
-    <script>
+    <!-- <video style="border-radius:15px" controls muted autoplay="autoplay" src="./images/placeholder.mp4" controls="controls" width="100%" /> -->
+    <!-- <script>
     document.getElementById('vid').play();
-    </script>
+    </script> -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/73HMagemIng?si=_NK84zxx0eMYDH13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <!--<iframe style="width:100%" src=" https://www.youtube.com/embed/oVbP-Y8xT_E?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="false" id="fitvid0"></iframe>-->
 </div>
 </p>
@@ -25,14 +26,14 @@ redirect_from: /sitemap/
     <b>Overview</b>
         <div>
             <p class="small">
-Dead Reckoning for Robotics In Field Time (DRIFT) is an open-source C++ software library designed to provide accurate and high-frequency state estimation for a variety of grounded mobile robot architectures, including legged and wheeled platforms. Leveraging symmetry-preserving filters such as Invariant extended Kalman filtering (InEKF), this modular library empowers roboticists and engineers with a robust and adaptable tool to estimate instantaneous local pose and velocity in diverse environments. The software is structured in a modular fashion, allowing users to define their own sensor types, and propagation and correction methods, offering a high degree of customization.
+Dead Reckoning In Field Time (DRIFT) is an open-source C++ software library designed to provide accurate and high-frequency state estimation for a variety of mobile robot architectures, including legged, wheeled, and marine platforms. Leveraging symmetry-preserving filters such as Invariant extended Kalman filtering (InEKF), this modular library empowers roboticists and engineers with a robust and adaptable tool to estimate instantaneous local pose and velocity in diverse environments. The software is structured in a modular fashion, allowing users to define their own sensor types, and propagation and correction methods, offering a high degree of customization.
 
 <br>
 <br>
 
 As a header-only library, DRIFT aims to make real-time robot localization easy and accessible, promoting seamless integration across numerous platforms. Additionally, we provide support for ROS middleware interface. In the future, we plan to expand support for both Lightweight Communications and Marshalling (LCM) and ROS 2.
             </p>
-            <div align="center"><img src="./images/hi-lvl-flow.png" alt="HighLevelFlow" style="max-width:60%;height:auto"></div>
+            <div align="center"><img src="./images/flow_chart.jpg" alt="HighLevelFlow" style="max-width:120%;height:auto"></div>
         </div>
     </div>
 </div>
@@ -44,7 +45,7 @@ As a header-only library, DRIFT aims to make real-time robot localization easy a
             <div>
                 Husky
                 <p>
-                   <a href="https://clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/" target="_blank"><img src="./images/husky.jpeg" alt="Husky" style="border-radius:10px"></a>
+                   <a href="https://clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/" target="_blank"><img src="./images/husky.png" alt="Husky" style="border-radius:10px"></a>
                 </p>
                 <!--<p>
                     The Husky robot is a wheeled mobile robot platform designed and manufactured by Clearpath Robotics, a Canadian robotics company.
@@ -53,7 +54,7 @@ As a header-only library, DRIFT aims to make real-time robot localization easy a
             <div>
                 MIT MiniCheetah
                 <p>
-                    <a href="https://www.naverlabs.com/mini-cheetah" target="_blank"><img src="./images/minicheetah.jpg" alt="MITMiniCheetah" style="border-radius:10px"></a>
+                    <a href="https://www.naverlabs.com/mini-cheetah" target="_blank"><img src="./images/minicheetah_forest.jpg" alt="MITMiniCheetah" style="border-radius:10px"></a>
                 </p>
                 <!--<p>
                     The MIT MiniCheetah is a quadrupedal robot designed and developed by the Massachusetts Institute of Technology's Biomimetic Robotics Laboratory.
@@ -62,16 +63,25 @@ As a header-only library, DRIFT aims to make real-time robot localization easy a
             <div>
                 Fetch
                 <p>
-                    <a href="https://fetchrobotics.com/" target="_blank"><img src="./images/fetch.jpeg" alt="fetch" style="border-radius:10px"></a>
+                    <a href="https://fetchrobotics.com/" target="_blank"><img src="./images/fetch.jpg" alt="fetch" style="border-radius:10px"></a>
                 </p>
                 <!--<p>
                     The Unitree Go1 is a quadruped robot designed and manufactured by Unitree Robotics.
                 </p>-->
             </div>
             <div>
-                Cassie Blue
+                MRZR-D4
                 <p>
-                    <a href="https://news.engin.umich.edu/2017/09/latest-two-legged-walking-robot-arrives-at-michigan/" target="_blank"><img src="./images/cassieblue.png" alt="cassieblue" style="border-radius:10px"></a>
+                    <a href="https://military.polaris.com/en-us/mrzr/" target="_blank"><img src="./images/MRZR_D4.png" alt="MRZR" style="border-radius:10px"></a>
+                </p>
+                <!--<p>
+                    The Unitree Go1 is a quadruped robot designed and manufactured by Unitree Robotics.
+                </p>-->
+            </div>
+            <div>
+                Girona 500 AUV (Simulation)
+                <p>
+                    <a href="https://iquarobotics.com/girona-500-auv" target="_blank"><img src="./images/stonefish.png" alt="MRZR" style="border-radius:10px"></a>
                 </p>
                 <!--<p>
                     The Unitree Go1 is a quadruped robot designed and manufactured by Unitree Robotics.
@@ -114,6 +124,20 @@ As a header-only library, DRIFT aims to make real-time robot localization easy a
     <b>Citation</b><br>
 <p class="small">
         If you use this work or find it helpful, please consider citing: (bibtex)
+
+<br><br>Tzu-Yuan Lin, Tingjun Li, Wenzhe Tong, and Maani Ghaffari. "Proprioceptive Invariant Robot State Estimation." arXiv preprint arXiv:2311.04320 (2023). (Under review for Transaction on Robotics)<br>
+    </p>
+<pre>
+  <code>
+@article{lin2023proprioceptive,
+  title={Proprioceptive Invariant Robot State Estimation},
+  author={Lin, Tzu-Yuan and Li, Tingjun and Tong, Wenzhe and Ghaffari, Maani},
+  journal={arXiv preprint arXiv:2311.04320},
+  year={2023}
+}
+</code>
+</pre>
+<p class="small">
 <br><br>Tzu-Yuan Lin, Ray Zhang, Justin Yu, and Maani Ghaffari. "Legged Robot State Estimation using Invariant Kalman Filtering and Learned Contact Events." In Conference on Robot Learning. PMLR, 2021<br>
     </p>
 <pre>
