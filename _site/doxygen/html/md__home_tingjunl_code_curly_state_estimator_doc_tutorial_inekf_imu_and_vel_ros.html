@@ -371,7 +371,7 @@
         </p>
         <div class="fragment">
           <div class="line"><span class="comment">// Define some config settings for the state estimator</span></div>
-          <div class="line">inekf::ErrorType error_type = LeftInvariant;</div>
+          <div class="line">inekf::ErrorType error_type = RightInvariant;</div>
           <div class="line">YAML::Node config_ = YAML::LoadFile(</div>
           <div class="line"> <span
               class="stringliteral">&quot;config/filter/inekf/propagation/husky_imu_propagation.yaml&quot;</span>);

@@ -372,7 +372,7 @@
         </p>
         <div class="fragment">
           <div class="line"><span class="comment">// Define some configurations for the state estimator</span></div>
-          <div class="line">inekf::ErrorType error_type = LeftInvariant;</div>
+          <div class="line">inekf::ErrorType error_type = RightInvariant;</div>
           <div class="line">YAML::Node config_ = YAML::LoadFile(<span
               class="stringliteral">&quot;config/filter/inekf/propagation/mini_cheetah_imu_propagation.yaml&quot;</span>);
           </div>
